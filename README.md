@@ -10,7 +10,7 @@ Clone this repository.
 
 ## Third and Last Step
 
-Open a terminal where you clone this repository and copy this /n
+Open a terminal where you clone this repository and copy this
 
 ```
     docker-compose up -d
