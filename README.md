@@ -8,10 +8,14 @@ Install docker.
 
 Clone this repository.
 
-## Third and Last Step
+## Third Step
 
 Open a terminal at the location where you cloned this repository and copy this
 
 ```
     docker-compose up -d
 ```
+
+## Forth Step
+
+Open your browser and type [a link](http://localhost:8081/)
